@@ -27,6 +27,6 @@ Welcome to my GitHub Repo, You can check out my work and contact me here
 
 <p align="center">
 
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusalvarenga&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats) | ![stats](https://github-readme-stats.vercel.app/api?username=mateusalvarenga&show_icons=true&theme=github_dark)|
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusalvarenga&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  |<!--- ![stats](https://github-readme-stats.vercel.app/api?username=mateusalvarenga&show_icons=true&theme=github_dark)-->|
 | ------------- | ------------- |
 </p>
