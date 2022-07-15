@@ -1,14 +1,19 @@
-### Hi there 👋
 
+### Hi there 👋
 Welcome to my GitHub Repo, You can check out my work and contact me here 
 <br><br>
+
+
+  <b>Connect with me🤝</b>
 
 
 <a href="https://www.linkedin.com/in/mateus-alvarenga"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 <a href="https://codepen.io/mateusalvarenga"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /> </a>
 
+
+
 <p align="center">
- Skills
+ Skill set
 </p>
 <p align="center">
  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
